@@ -43,7 +43,7 @@ notebooks/    # Jupyter ML pipeline and analysis
 ## 🖼️ Screenshots
 
 <!-- Paste images here or drag-and-drop after first pushing to GitHub -->
-![Landing Page]
+**Landing Page**
 <img width="3167" height="1466" alt="image" src="https://github.com/user-attachments/assets/a2e681e2-41de-4e33-a0b2-a76f7e45bd05" />
 
 ![AI Analysis Tool]
