@@ -76,7 +76,7 @@ notebooks/    # Jupyter ML pipeline and analysis
 ## 🔧 Setup & Usage
 
 1. Clone the repo:
-git clone https://github.com/your-username/ai-doctor-assistant.git
+git clone https://github.com/Lamstersickness/ai-doctor-assistant.git
 cd ai-doctor-assistant
 
 
