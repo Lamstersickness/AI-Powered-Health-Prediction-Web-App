@@ -1,0 +1,12 @@
+{
+  "Fever": ["high temperature", "hot", "pyrexia"],
+  "Headache": ["head pain", "migraine", "throbbing head"],
+  "Fatigue": ["tired", "exhaustion", "lethargy"],
+  "Cough": ["coughing", "hack", "dry cough", "wet cough"],
+  "Nausea": ["sick", "queasy", "vomit", "vomiting"],
+  "Dizziness": ["lightheaded", "vertigo", "woozy"],
+  "Chest pain": ["pain in my chest", "tight chest", "chest discomfort"],
+  "Joint pain": ["pain in my joints", "aching joints", "arthralgia"],
+  "Shortness of breath": ["breathless", "can't breathe", "difficulty breathing"],
+  "Abdominal pain": ["stomach ache", "tummy ache", "belly pain", "pains in my tummy"]
+}

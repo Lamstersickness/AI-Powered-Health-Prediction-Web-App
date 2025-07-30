@@ -1,0 +1,22 @@
+# Python cache and virtualenv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model artifacts (optionally)
+*.pkl
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs (optional)
+*.log
