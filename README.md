@@ -7,16 +7,23 @@ A full-stack AI-powered web application for smart, interactive preliminary healt
 ## 🚀 Features
 
 - **AI-powered Disease Prediction System**
+  
   - Intuitive symptom search with autocomplete, synonym, and typo handling
   - Multi-symptom selection and chip-style UI
   - Upload PDFs/images/scanned lab reports  
   - Optional personal info for demographic-aware analysis
+    
 - **End-to-End Machine Learning Pipeline**
+  
   - Data collection, preprocessing, training, and explainability in modular notebooks
   - Model: Random Forest Classifier trained on real-world health data
+    
 - **Explainability**
+  
   - Automatic model explanation using SHAP: "Why this prediction?"
+    
 - **Modern, Responsive Frontend**
+  
   - Built with TailwindCSS, vanilla JS, and FontAwesome icons
   - Animated UI, smooth scrolling, copy/download/share options for reports
 
@@ -113,6 +120,6 @@ uvicorn app:app --reload
 
 ## 📄 License
 
-[MIT](LICENSE)  (add your license here!)
+[MIT](LICENSE)
 
 ---
