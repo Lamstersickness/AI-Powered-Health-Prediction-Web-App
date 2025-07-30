@@ -43,17 +43,21 @@ notebooks/    # Jupyter ML pipeline and analysis
 ## 🖼️ Screenshots
 
 <!-- Paste images here or drag-and-drop after first pushing to GitHub -->
-**Landing Page**
+## **Landing Page**
+
 <img width="3167" height="1466" alt="image" src="https://github.com/user-attachments/assets/a2e681e2-41de-4e33-a0b2-a76f7e45bd05" />
 
-![AI Analysis Tool]
+## **AI Analysis Tool**
+
 <img width="3170" height="1729" alt="image" src="https://github.com/user-attachments/assets/7d963fd9-8b1e-4acd-bf6b-e244903d404e" />
 
-![Rest of the Webpage]
+## **Rest of the Webpage**
+
 <img width="3166" height="1730" alt="image" src="https://github.com/user-attachments/assets/028bd6a4-928b-4fd8-9597-b9c8fd725372" />
 
 
-![Results Example]
+## **Results Example**
+
 <img width="3168" height="1727" alt="image" src="https://github.com/user-attachments/assets/b22b3dd9-0bc1-42bc-a41b-e33ded41dc4d" />
 <img width="3169" height="1193" alt="image" src="https://github.com/user-attachments/assets/a10a8c88-8d8d-4332-be37-fd203fd8c0b6" />
 <img width="3164" height="1412" alt="image" src="https://github.com/user-attachments/assets/d3be615c-76ac-4838-af99-fb6e34210ee9" />
